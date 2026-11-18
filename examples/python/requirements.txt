@@ -1,0 +1,4 @@
+# Only needed for sdk_openai.py and sdk_anthropic.py.
+# chat.py, messages.py and responses.py use the standard library only.
+openai
+anthropic
